@@ -1,0 +1,41 @@
+/* .icon {
+  width: 15%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: rotate(45deg);
+} */
+
+.card {
+  background-color: white;
+  color: white;
+}
+
+.profile-img {
+  width: 25%;
+  max-width: 100px;
+  border-radius: 50%;
+}
+.description {
+  position: relative;
+  margin-top: 10px;
+}
+.qr {
+  width: 25%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+strong {
+  color: red;
+}
+h3 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+span {
+  color: black;
+}
